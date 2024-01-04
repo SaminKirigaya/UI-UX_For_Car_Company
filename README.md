@@ -4,4 +4,4 @@ https://www.figma.com/file/PNlZBpuZacksKDLRVynNr5/car-brands-uiux?type=design&mo
 ## Demo Design
 ![homepage view](https://github.com/SaminKirigaya/UI-UX_For_Car_Company/assets/104618775/a20cb364-9cce-4e88-aba8-ce937675c8ff)
 ![image](https://github.com/SaminKirigaya/UI-UX_For_Car_Company/assets/104618775/f6d43458-6f27-4284-a640-48519919f4ff)
-
+![board members](https://github.com/SaminKirigaya/UI-UX_For_Car_Company/assets/104618775/bf6830d5-cf59-481a-ba85-7394bf4b106d)
